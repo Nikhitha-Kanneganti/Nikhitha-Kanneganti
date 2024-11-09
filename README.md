@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhitha-Kanneganti
 - 👀 I’m interested in learing programming languages
-- 🌱 I’m currently learning 
+  
 - 📫 my e-mail id: nikki.com.2229@gmail.com
 - 😄 Pronouns: I am a begginer and intrested in connecting more people and gain knowledge
 - ⚡ Fun fact: The world's biggest open source play ground
